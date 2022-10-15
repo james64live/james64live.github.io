@@ -1,0 +1,57 @@
+html {
+  background-image:url(bgxl2.png);
+  background-size:100% auto;
+  position: center;
+}
+body {
+  margin: auto;
+  width: 50%;
+  min-width: 800px;
+  max-width: 1024px;
+  border-radius: 7px;
+  background:url(bg.png);
+  background-position: center;
+  box-shadow: 2px 2px 10px;
+  background-repeat: repeat;
+  font-size: 1.125em;
+  font-family:charcoalregular
+}
+@font-face {
+  font-family: 'charcoalregular';
+  src: url('charcoal-webfont.woff2') format('woff2'),
+        url('charcoal-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+.logo {
+  text-align: left;
+  padding: 10px
+}
+.bar {
+  text-align: center;
+  height: 40px;
+  background-image:url(bar/bg.png);
+  background-repeat: repeat-x;
+}
+p {
+  padding: 0px 25px;
+}
+.links {
+  text-align: right;
+  padding: 25px;
+}
+.images {
+  text-align: center;
+}
+.game {
+  text-align: center;
+  font-size: 1.25em;
+}
+.games {
+  text-align: center;
+  width: 100%;
+  padding: 15px;
+}
+.upcoming {
+  padding: 25px 0px;
+}
