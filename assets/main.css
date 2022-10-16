@@ -1,5 +1,5 @@
 html {
-  background-image:url(bgxl2.png);
+  background-image:url(bgxl2.jpg);
   background-size:100% auto;
   position: center;
 }
@@ -8,7 +8,7 @@ body {
   width: 50%;
   min-width: 800px;
   max-width: 1024px;
-  border-radius: 7px;
+  border-radius: 5px;
   background:url(bg.png);
   background-position: center;
   box-shadow: 2px 2px 10px;

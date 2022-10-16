@@ -1,0 +1,30 @@
+v2.0.1
+-about page isn't just a copy of the old site
+ -dates are now for the new site (date created and date launched)
+ -removed the 12 digit version number since some mobile devices think that its a phone number
+ -updated the PC setup (specificaly the HDDs)
+ -added a link to the old site
+-the main background (bgxl2.png) is now a .jpg instead of a .png, shoulud help with load time
+-the border radius for body is now 5px instead of 7px
+-the bacground for the body (bg.png) is 1px instead of 10px by 10px (its just slightly transparent solid white so there isn't any difference)
+-the title for index.html is now James64 (was James64.ca but i dont have that domain yet)
+
+
+v2.0 (202210150121)
+-fully re-written from scratch
+-new site includes almost all functionality of the original
+ -key differences from the old site:
+  -new and tweaked graphics
+  -the assets are more organized
+  -upcoming projects page is just paragraphs again nothing fancy
+  -games page is now a list of games arranged as tiles wit a page for each game (currently there's just one)
+  -most of the text is now left aligned
+  -site now adjusts depending on display size 
+  -minimum width is 800px maximum width is 1024px (may be subject to change)
+  -now hosted on github pages (currently https://james64live.github.io/
+
+
+  
+
+
+
