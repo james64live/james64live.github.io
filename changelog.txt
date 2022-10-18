@@ -1,3 +1,10 @@
+v2.0.2
+-new (temporary) header to celebrate the site getting a propper domain (james64.ca)
+-the title of index.html is James64.ca again
+-the background has been replaced with a slightly blue version (bgxl4.jpg)
+-the homepage now says "the official James64 website" instead of just "my website"
+-removed some unused files from the hosted version of the site
+
 v2.0.1
 -about page isn't just a copy of the old site
  -dates are now for the new site (date created and date launched)
