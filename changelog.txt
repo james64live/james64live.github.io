@@ -1,3 +1,5 @@
+v2.0.3
+
 v2.0.2
 -new (temporary) header to celebrate the site getting a propper domain (james64.ca)
 -the title of index.html is James64.ca again
