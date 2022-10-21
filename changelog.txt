@@ -1,4 +1,22 @@
-v2.0.3
+v2.1.0
+-background is now a darker blue
+-the body now extends to the bottom of the page on all pages
+-scaling has been altered
+ - 1024px wide for 1920x1080 and up
+ - 960px for 1600x900
+ - 800px for 1280x1024 and below
+-the text "Now at james64.ca" is now a separate right aligned image form the header and now only on the home page
+-improved scaling for the image gallery
+ -thumbnails now scale to the width of the page
+ -the thumbnails are now 854x480 (they were 750x442 since v2.0.0)
+ -text is now left aligned
+-the game 3dmaze is now displayed at 550x400 (was 640x480)
+-the homepage has been redesigned
+ -altered paragraph formatting (not too noticeable)
+ -added an embed of my latest video with the text "Also here is my latest video:"
+ -changed the images for my social media links so they are bigger and use different versions of the logos
+ -social media links are now centered at the bottom of the page
+-removed the latest entry in upcoming projects since it doesn't apply anymore
 
 v2.0.2
 -new (temporary) header to celebrate the site getting a propper domain (james64.ca)
