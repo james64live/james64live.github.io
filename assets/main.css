@@ -1,6 +1,6 @@
 html {
   width: 100vw;
-  background-image:url(bgxl4.jpg);
+  background-image: url(bgxl4.jpg),url(bglow.jpg);
   background-size:100% auto;
   position: center;
 }
