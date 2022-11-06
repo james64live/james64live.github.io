@@ -1,3 +1,24 @@
+v2.2.0 (202211061326)
+-added a footer to every page (it doesn't have any text yet but it prevents the gap that appeared at the bottom of some pages)
+-removed unnecessary divisions form upcoming and gallery
+-the Halloween background has been removed
+-the background and low res back ground are now .webp files for better compression
+-the body now scales to 95% but maxes out at 960px
+-bg.png is now 5px by 5px because it was appearing to dark on some browsers
+-the image for the beta 1.8 pack now scales to 50%
+-tweaked the menu bar buttons slightly
+-removed border-radius from the body
+-fixed horizontal scrollbar appearing on pages with a vertical scroll bar
+
+v2.1.1
+-added a 10kb version of the background which should display while the full-size version is loading (bglow.jpg)
+
+v2.1.0_02
+-replaced the background Halloween themed background for the next two days
+
+v2.1.0_01
+-forgot to update changelog.txt
+
 v2.1.0
 -background is now a darker blue
 -the body now extends to the bottom of the page on all pages
@@ -18,8 +39,8 @@ v2.1.0
  -social media links are now centered at the bottom of the page
 -removed the latest entry in upcoming projects since it doesn't apply anymore
 
-v2.0.2
--new (temporary) header to celebrate the site getting a propper domain (james64.ca)
+v2.0.2 (first version at james64.ca)
+-new (temporary) header to celebrate the site getting a propper domain 
 -the title of index.html is James64.ca again
 -the background has been replaced with a slightly blue version (bgxl4.jpg)
 -the homepage now says "the official James64 website" instead of just "my website"
@@ -44,7 +65,7 @@ v2.0 (202210150121)
   -new and tweaked graphics
   -the assets are more organized
   -upcoming projects page is just paragraphs again nothing fancy
-  -games page is now a list of games arranged as tiles wit a page for each game (currently there's just one)
+  -games page is now a list of games arranged as tiles with a page for each game (currently there's just one)
   -most of the text is now left aligned
   -site now adjusts depending on display size 
   -minimum width is 800px maximum width is 1024px (may be subject to change)
