@@ -3,7 +3,7 @@ html {
   overflow-y: scroll;
   overflow-x: hidden;
   
-  background-image: url(bgxl.webp),url(bglow.jpg);
+  background-image: url(bgxl.jpg),url(bglow.jpg);
   background-size: 100% auto;
 }
 body {
