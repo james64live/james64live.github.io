@@ -2,9 +2,8 @@ html {
   width: 100vw;
   overflow-y: scroll;
   overflow-x: hidden;
-  
-  background-image: url(bgxl.jpg),url(bglow.jpg);
-  background-size: 100% auto;
+  background-image: url(snow.gif),url(bgxlxmas.png),url(bgxl2.jpg),url(bglow.jpg);
+  background-size: 192px,100% auto,100% auto;
 }
 body {
   min-height: 100vh;
@@ -27,8 +26,11 @@ body {
   font-style: normal;
 }
 .logo {
+  background:url(4lights.gif);
+  background-repeat: repeat-x;
+  background-position:center;
   text-align: left;
-  padding: 10px
+  padding: 4px;
 }
 .bar {
   text-align: center;

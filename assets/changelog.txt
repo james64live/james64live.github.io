@@ -1,3 +1,14 @@
+v2.2.1-Holiday Update
+-Holiday update
+ -animated Christmas lights in header (4lights.gif)
+ -logo re-coloured red and green (logo.gif)
+ -animated snow in the background (snow.gif)
+ -added red and whine stripes to the main background (bgxlxmas.png)
+ -holiday changes will be reverted around the end of december 
+-removed the text "Now at james64.ca" from the header (new.gif)
+-the version number on the about page is now a link to the changelog, the other link has been removed
+-changlog.txt is now stored in /assets
+
 v2.2.0_02
 -switched bgxl back to a .jpg (since many devices don't support .webp)
 -increased saturation of twitter.gif
