@@ -1,3 +1,18 @@
+v2.3.0
+-all pages are now stored in their own directories and nolonger have the filename in the url
+-all pages now have indentation in their code
+-the header now includes a link to my youtube and twitch on all
+-the colour of the background has been changed to a lighter and more saturated blue
+-the background is no longer overly compressed
+-the favicon is no longer stretched
+-downloads are now hosted on the site rather than through mediafire
+-downloads are stored in /downloads/file/
+-the image gallery links now lead to the directory listing the images with a view page linked at the top
+-image gallery images are stored in /gallery/
+-games as well as game pages are no stored in /games/(name of game)
+-added a 404 page
+
+
 v2.2.1_01
 -Reverted the holiday changes
 -the background is now a black and white jpg with a colour overlay

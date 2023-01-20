@@ -2,7 +2,7 @@ html {
   width: 100vw;
   overflow-y: scroll;
   overflow-x: hidden;
-  background-image: url(colour.png),url(bggrey.jpg),url(bglow.jpg);
+  background-image: url(colour.png),url(bggrey2.jpg),url(bglow.jpg);
   background-size: 100% auto,100% auto;
 }
 body {
@@ -25,15 +25,27 @@ body {
   font-weight: normal;
   font-style: normal;
 }
+.header {
+	display: grid;
+}
 .logo {
-  text-align: left;
-  padding: 10px;
+	padding: 10px;
+	text-align: left;
+	grid-column: 1;
+	grid-row: 1
+}
+.yt {
+	padding: 10px;
+	text-align: right;
+	grid-column: 2;
+	grid-row: 1;
 }
 .bar {
   text-align: center;
   height: 40px;
   background-image:url(bar/bg.png);
   background-repeat: repeat-x;
+  padding: 0px;
 }
 p {
   padding: 0px 25px;
@@ -57,6 +69,9 @@ img.image {
 img.image2 {
   width: 50%;
   height: auto;
+}
+.grid {
+	display: grid;
 }
 .video {
   text-align: center;
