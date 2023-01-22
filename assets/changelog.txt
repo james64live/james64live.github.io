@@ -1,3 +1,11 @@
+v2.3.1
+-fixed two issues caused by github pages not listing directories
+  -fixed the download for b1.8 pack Older versions by adding a page with links for each version
+  -fixed the image gallery by renaming the ClickToView pages to index.html
+-images in gallery no are displayed at 750px instead of the original resolution however the full size .pngs are still the images used
+-tweaked page scaling
+-removed leftover holiday assets 
+
 v2.3.0
 -all pages are now stored in their own directories and nolonger have the filename in the url
 -all pages now have indentation in their code
@@ -11,7 +19,6 @@ v2.3.0
 -image gallery images are stored in /gallery/
 -games as well as game pages are no stored in /games/(name of game)
 -added a 404 page
-
 
 v2.2.1_01
 -Reverted the holiday changes

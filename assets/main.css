@@ -1,7 +1,5 @@
 html {
-  width: 100vw;
   overflow-y: scroll;
-  overflow-x: hidden;
   background-image: url(colour.png),url(bggrey2.jpg),url(bglow.jpg);
   background-size: 100% auto,100% auto;
 }
