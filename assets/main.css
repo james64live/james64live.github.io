@@ -6,9 +6,7 @@ html {
 body {
   min-height: 100vh;
   margin: auto;
-  width: 95%;
-  min-width: 800px;
-  max-width: 960px;
+  width: 960px;
   background:url(bg.png);
   background-position: center;
   box-shadow: 2px 2px 10px;
@@ -47,7 +45,6 @@ body {
 }
 p {
   padding: 0px 25px;
-  text-align: left;
 }
 .1 {
   padding: 0px 25px;
@@ -70,20 +67,32 @@ img.image2 {
 }
 .grid {
 	display: grid;
+	grid-template: grid-template-columns: auto auto auto auto;
 }
-.video {
+.youtube {
   text-align: center;
   padding: 10px;
 }
-.game {
+.videos {
+  margin: auto;
+}
+.item {
   text-align: center;
-  font-size: 1.25em;
   padding: 10px;
+}
+.content {
+	text-align: center;
+	width: 640px;
+	margin: auto;
+}
+.txt {
+	width: 640px;
+	margin: auto;
+	padding: 10px;
 }
 .games {
   text-align: center;
-  width: 100%;
-  padding: 15px;
+  margin: auto;
 }
 footer {
   text-align: center;
