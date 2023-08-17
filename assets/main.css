@@ -1,19 +1,29 @@
 html {
   overflow-y: scroll;
-  background-image: url(colour.png),url(bggrey2.jpg),url(bglow.jpg);
-  background-size: 100% auto,100% auto;
+  background-image:url(test.png),url(whitespheres.png),url(bggrey2.jpg),url(bglow.jpg);
+  background-size:100% auto,128px ;
 }
 body {
   min-height: 100vh;
   margin: auto;
-  width: 960px;
-  background:url(bg.png);
+  width: 780px;
+  background-image:url(bg2.png);
   background-position: center;
-  box-shadow: 2px 2px 10px;
+  box-shadow: 0px 0px 55px;
   background-repeat: repeat;
   font-size: 1.125em;
-  font-family:charcoalregular;
+  font-family:allerbold;
+  font-color: white
 }
+
+@font-face {
+  font-family: 'allerbold';
+    src: url('aller_bd-webfont.woff2') format('woff2'),
+         url('aller_bd-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+/* 
 @font-face {
   font-family: 'charcoalregular';
   src: url('charcoal-webfont.woff2') format('woff2'),
@@ -21,11 +31,10 @@ body {
   font-weight: normal;
   font-style: normal;
 }
-.header {
-	display: grid;
-}
+*/
 .logo {
 	padding: 10px;
+	max-height: 90px
 	text-align: left;
 	grid-column: 1;
 	grid-row: 1
@@ -65,10 +74,6 @@ img.image2 {
   width: 50%;
   height: auto;
 }
-.grid {
-	display: grid;
-	grid-template: grid-template-columns: auto auto auto auto;
-}
 .youtube {
   text-align: center;
   padding: 10px;
@@ -76,9 +81,15 @@ img.image2 {
 .videos {
   margin: auto;
 }
+.links {
+  margin: auto;
+}
 .item {
   text-align: center;
   padding: 10px;
+}
+.link {
+  padding: 0px 15px;
 }
 .content {
 	text-align: center;
@@ -91,10 +102,12 @@ img.image2 {
 	padding: 10px;
 }
 .games {
-  text-align: center;
   margin: auto;
 }
 footer {
   text-align: center;
+  /*height: 40px;
+  background-image:url(bar/bg.png);
+  background-repeat: repeat-x;*/
   padding: 5px;
 }

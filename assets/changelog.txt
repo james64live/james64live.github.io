@@ -1,3 +1,29 @@
+v2.5.0
+-the body is no longer transparent
+-the font is now aller bold (a free to use font, it used to be charcoal regular)
+-removed some old unused assets
+-changed the background to a tiled png that is closer to the current channel background
+-removed the links in the header (they didn't dsplay right on a lot of browsers, also they didn't look good in the first place)
+-added a section for minecraft generations and cities skylines on the thumbnails page
+-re aranged and re worded the homepage
+-updated the nav bar on some pages that i missed before
+ -the links are now smaller and in a table (rather that a janky paragraph because that just broke for some reason)
+ -the inks are now pngs instead of still gifs (why did i make them gifs in the first place is beyond all logic)
+ -updated the twitter logo to the current design
+ -i also made the recent video actualy fit the page
+-added a propper thumbnail for the nsssmp clip in videos
+i think thats everything, i don't even know because i started working on this version like 6 months ago, honestly though who cares because i doubt anyone is reading these
+
+v2.4.0
+-added a videos page
+ -it takes the place of the upcoming projects place on the menu bar
+ -items are listed in a table with thumbnails and titles
+ -currently includes a clip from the canceled nsssmp video
+ -videos are played using the HTML 5 video tag however i plan on adding or replacing that with an alternative player since most browsers don't handle the video tag that well (especially chromium) 
+-removed the upcoming projects page from the menu bar across all pages, its still up at james64.ca/upcoming as well as on the neo-cites page (it hasn't been updated in months, it was originally going to show the status of videos i am currently working on but it just ended up turning into a blog)
+-added several new css classes for the videos page as well as changed and renamed some already existing ones
+the body is now fixed at 960px wide (instead of scaling down to 800px wide)
+
 v2.3.1
 -fixed two issues caused by github pages not listing directories
   -fixed the download for b1.8 pack Older versions by adding a page with links for each version
