@@ -1,5 +1,0 @@
-replace upcomingprojects with videos site wide
-	replace
-	<a href="/upcoming"><img src='/assets/bar/up.png' onmouseover="this.src='/assets/bar/upa.png';" onmouseout="this.src='/assets/bar/up.png';" />
-	with
-	<a href="/videos"><img src='/assets/bar/vid.png' onmouseover="this.src='/assets/bar/vida.png';" onmouseout="this.src='/assets/bar/vid.png';" />

@@ -78,7 +78,7 @@ img.image2 {
   text-align: center;
   padding: 10px;
 }
-.videos {
+.media {
   margin: auto;
 }
 .links {
@@ -101,8 +101,8 @@ img.image2 {
 	margin: auto;
 	padding: 10px;
 }
-.games {
-  margin: auto;
+.game {
+  text-align: center;
 }
 footer {
   text-align: center;
