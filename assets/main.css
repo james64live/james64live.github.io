@@ -1,7 +1,7 @@
 html {
   overflow-y: scroll;
-  background-image:url(test.png),url(whitespheres.png),url(bggrey2.jpg),url(bglow.jpg);
-  background-size:100% auto,128px ;
+  background-image:url(test.png),url(layerw.png),url(whitespheres.jpg);
+  background-size:100% auto,100% auto,128px ;
 }
 body {
   min-height: 100vh;

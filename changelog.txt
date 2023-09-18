@@ -1,3 +1,9 @@
+v2.5.2
+-added a layer to the background featuring a bunch of things from videos similar to my channel banner
+-changes the white spheres to a .jpg (for load time)
+-removed the old background from the style sheet
+-made the body background very slightly lighter
+
 v2.5.1
 - moved the changelog to the root of the website
 -updateed my twitt.. uh i mean X handel, its @james64live now (it's not like i plan to ever use twi.. that app ever again but the double underscore just had to go)
