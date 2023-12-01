@@ -1,3 +1,11 @@
+v2.5.3 Holiday 2023
+-reimplemented Christmas assets from last year
+  -animated lights in header and footer
+  -red and green christmas banner
+  -animated snowfall background
+-red and white candy cane background
+-fixed some pages that had broken menubars (linking to old pages)
+
 v2.5.2
 -added a layer to the background featuring a bunch of things from videos similar to my channel banner
 -changes the white spheres to a .jpg (for load time)
