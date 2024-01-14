@@ -1,7 +1,7 @@
 html {
   overflow-y: scroll;
-  background-image:url(test.png),url(snow.gif),url(layerw.png),url(whitespheres.jpg);
-  background-size:100% auto,200px,100% auto,128px ;
+  background-image:url(test.png),url(layerw.png),url(whitespheres.jpg);
+  background-size:100% auto,100% auto,128px ;
 }
 body {
   min-height: 100vh;
@@ -33,11 +33,11 @@ body {
 }
 */
 .logo {
-  background:url(4lights.gif);
-  background-repeat: repeat-x;
-  background-position:center;
-  text-align: left;
-  padding: 4px;
+	padding: 10px;
+	max-height: 90px
+	text-align: left;
+	grid-column: 1;
+	grid-row: 1
 }
 .yt {
 	padding: 10px;
@@ -106,10 +106,6 @@ img.image2 {
 }
 footer {
   text-align: center;
-  background:url(4lights.gif);
-  background-repeat: repeat-x;
-  background-position:center;
-  height: 80px;
   /*height: 40px;
   background-image:url(bar/bg.png);
   background-repeat: repeat-x;*/

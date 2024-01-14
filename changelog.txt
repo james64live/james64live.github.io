@@ -1,3 +1,6 @@
+v2.5.3_01
+-removed chrirstmas themed assets
+
 v2.5.3 Holiday 2023
 -reimplemented Christmas assets from last year
   -animated lights in header and footer
