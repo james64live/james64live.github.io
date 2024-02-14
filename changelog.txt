@@ -1,3 +1,8 @@
+v2.5.4
+-removed games page from menubar (its still up at /games I just don't really care about hosting games anymore)
+-updated my contact email
+-changed the way the featured video works so it can be updated without changing code
+
 v2.5.3_01
 -removed chrirstmas themed assets
 
